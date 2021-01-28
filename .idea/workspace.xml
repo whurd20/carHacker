@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="indieProject:war" />
+      <artifact name="carHacker:war" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,15 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abe4028-367c-4760-825e-ad207c751492" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/entity/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/entity/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/persistence/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/UserData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/persistence/UserData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/indieProject.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/entity/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/entity/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/Database.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/UserData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/UserData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/javaee-web-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/indieProject/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,28 +71,31 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\webapp" />
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\webapp\WEB-INF" />
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\java\carHacker\persistence" />
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\java\carHacker\controller" />
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\resources" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\webapp" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carHacker\persistence" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carHacker\controller" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Walker\IdeaProjects\indieProject\src\main\webapp" />
+      <recent name="C:\Users\Walker\IdeaProjects\carHacker\src\main\webapp" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="TomEE 8.5.571" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.571" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/indieProject_war/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/carHacker_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="indieProject:war">
+        <artifact name="carHacker:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/indieProject_war" />
+            <option name="CONTEXT_PATH" value="/carHacker_war" />
           </settings>
         </artifact>
       </deployment>
@@ -163,7 +174,7 @@
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="install" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="indieProject:war" />
+          <artifact name="carHacker:war" />
         </option>
       </method>
     </configuration>
@@ -179,6 +190,9 @@
       <workItem from="1611795416951" duration="4406000" />
       <workItem from="1611799993733" duration="2926000" />
       <workItem from="1611803127757" duration="294000" />
+      <workItem from="1611803655669" duration="231000" />
+      <workItem from="1611804084592" duration="866000" />
+      <workItem from="1611805108845" duration="54000" />
     </task>
     <servers />
   </component>

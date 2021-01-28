@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>indieProject</artifactId>
+  <artifactId>carHacker</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>indieProject Maven Webapp</name>
+  <name>carHacker Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://localhost:8080/indieProject_war</url>
+  <url>http://localhost:8080/carHacker_war</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -46,7 +46,7 @@
   </dependencies>
 
   <build>
-    <finalName>indieProject</finalName>
+    <finalName>carHacker</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
