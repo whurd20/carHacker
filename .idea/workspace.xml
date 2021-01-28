@@ -10,23 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abe4028-367c-4760-825e-ad207c751492" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/entity/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/Database.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/carhacker/persistence/UserData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/classes/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/javaee-web-api-7.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/indieProject/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +58,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,7 +176,7 @@
       <workItem from="1611803127757" duration="294000" />
       <workItem from="1611803655669" duration="231000" />
       <workItem from="1611804084592" duration="866000" />
-      <workItem from="1611805108845" duration="54000" />
+      <workItem from="1611805108845" duration="723000" />
     </task>
     <servers />
   </component>
