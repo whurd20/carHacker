@@ -1,4 +1,5 @@
 carhacker\entity\Vehicle.class
 carhacker\persistence\Database.class
+carhacker\controller\NetworkUtils.class
 carhacker\controller\SearchVIN.class
 carhacker\persistence\UserData.class
