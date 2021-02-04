@@ -14,13 +14,36 @@
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/controller/NetworkUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/controller/NetworkUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/output.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/output.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/NetworkUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/httpasyncclient-4.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/httpclient-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/httpcore-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/httpcore-nio-4.4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/httpmime-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/javaee-web-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/json-20160212.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/unirest-java-1.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/output.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/NetworkUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +60,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JspContextManager">
+    <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/head.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -58,7 +84,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tomcat/lib/unirest-java-1.4.9.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../tomcat/lib/xmlsec-2.0.6.jar" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +92,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
@@ -93,17 +119,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,7 +234,9 @@
       <workItem from="1611805108845" duration="1680000" />
       <workItem from="1612300165219" duration="27000" />
       <workItem from="1612376354061" duration="599000" />
-      <workItem from="1612463354456" duration="8752000" />
+      <workItem from="1612463354456" duration="9943000" />
+      <workItem from="1612477184480" duration="3412000" />
+      <workItem from="1612481123160" duration="162000" />
     </task>
     <servers />
   </component>

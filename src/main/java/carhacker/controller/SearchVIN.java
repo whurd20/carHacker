@@ -34,10 +34,10 @@ public class SearchVIN extends HttpServlet {
 
         //urlResult = NetworkUtils.generateURL();
         //vehicle = NetworkUtils.parseJSONBooks(urlResult);
+        request.setAttribute("method", "GET");
         request.setAttribute("vehicle", "Your car");
 
-        RequestDispatcher dispatcher = request
-                .getRequestDispatcher("/output.jsp");
+        RequestDispatcher dispatcher = request.getRequestDispatcher("/output.jsp");
         dispatcher.forward(request, response);
     }
 }
