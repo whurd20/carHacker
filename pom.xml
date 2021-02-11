@@ -1,18 +1,18 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>edu.matc.entjava.userdisplayexercise</groupId>
-  <artifactId>userdisplayexercise</artifactId>
+  <groupId>carHacker</groupId>
+  <artifactId>carHacker</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>userdisplayexercise Maven Webapp</name>
+  <name>carHacker Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
     <junit.version>4.12</junit.version>
     <javax.version>7.0</javax.version>
-
+    <log4j-version>2.10.0</log4j-version>
     <mysql-version>8.0.16</mysql-version>
     <maven-compiler-plugin-version>3.8.1</maven-compiler-plugin-version>
   </properties>
@@ -24,7 +24,16 @@
       <artifactId>jstl-api</artifactId>
       <version>1.2</version>
     </dependency>
-
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>${log4j-version}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>${log4j-version}</version>
+    </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -45,7 +54,7 @@
 
   </dependencies>
   <build>
-    <finalName>userdisplayexercise</finalName>
+    <finalName>carHacker</finalName>
     <pluginManagement>
       <plugins>
         <plugin>

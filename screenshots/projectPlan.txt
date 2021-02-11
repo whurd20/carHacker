@@ -1,0 +1,32 @@
+Project Plan 
+
+2/11 - 3/2
+
+    Set Up database.
+    Make sure API is working.
+    Create a crud for data object that is unit tested.
+    Do peer design reviews.
+
+3/2 - 3/23
+
+    Deploy to AWS.
+    Make sure program output is correct. (The API is being 
+            accessed properly and displaying at least one vehicle spec in output jsp page)
+    
+
+3/23 - 5/11
+
+    Work though user stories, improving iterations of app.
+    Make the front end nice.
+    Design presentation and video presentation.
+
+User Stories for MVP-
+As a user I want the last comparison I made to still be up when I reopen the app to save time.
+As a user I want to see what my car would look like in different colors in case I need/want a paint job.
+As a user I want the first car i pick to be saved, so i can compare multiple cars to one without having to pick the first one for every match.
+As a user I want my name at the top so I know I'm in my account.
+As a user I want previous VIN's stored in a list for ease of access.
+As a buyer I want to know if its diesel or gas fuel type so I can anticipate my fuel cost.
+As an enthusist I want to know which car has a faster 0-60 so I can be knowledge able about fast cars.
+As an enthusist I want to know the torque and max rpms of the car so I can calculate horsepower.
+As a buyer I want to be able to add up check marks so I can quickly compare cars.

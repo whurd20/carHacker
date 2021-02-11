@@ -1,0 +1,10 @@
+2/11
+
+I have gotten my project structure set up right.
+I have log4j and JUnit in my project, log4j is working properly.
+I have gotten an API key for VIN decoder and have made some attempts to use it properly.
+I have made all deliverables for first checkpoint.
+I spent a few hours of time changing the name of my project from indieProject to carHacker
+I also spent a few hours trying to get EL to work in my project, realized my xml was missing something from the set up.
+Excluding these I have spent about 20 hours on the project, mostly getting it set up,
+    making sure the servlet works and messing around with the VIN Decoder API

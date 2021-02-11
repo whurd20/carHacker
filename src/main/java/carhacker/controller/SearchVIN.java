@@ -1,6 +1,8 @@
 package carhacker.controller;
 
 import carhacker.entity.Vehicle;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import java.io.*;
 
@@ -18,6 +20,7 @@ import java.net.URL;
 public class SearchVIN extends HttpServlet {
     private URL urlResult;
     private Vehicle vehicle;
+    private final Logger logger = LogManager.getLogger(this.getClass());
 
 
 
@@ -34,6 +37,9 @@ public class SearchVIN extends HttpServlet {
 
         //urlResult = NetworkUtils.generateURL();
         //vehicle = NetworkUtils.parseJSONBooks(urlResult);
+
+        logger.info("Log 4 j is working!");
+        //logger.error("Some message you want logged", e);
         request.setAttribute("method", "GET");
         request.setAttribute("vehicle", "Your car");
 
