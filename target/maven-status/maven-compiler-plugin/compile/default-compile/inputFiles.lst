@@ -2,4 +2,7 @@ C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\persistence\Datab
 C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\controller\NetworkUtils.java
 C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\persistence\UserData.java
 C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\controller\SearchVIN.java
+C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\entity\User.java
+C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\persistence\UserDao.java
 C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\entity\Vehicle.java
+C:\Users\Walker\IdeaProjects\carHacker\src\main\java\carhacker\persistence\SessionFactoryProvider.java
