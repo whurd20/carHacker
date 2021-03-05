@@ -33,11 +33,9 @@ class UserDaoTest {
      */
     @Test
     void getByIdSuccess() {
-//        User retrievedUser = userDao.getById(3);
-//        assertEquals("Java: A Beginner’s Guide (Sixth Edition)", retrievedUser.getTitle());
-//        assertEquals("Herbert Schilt", retrievedUser.getAuthor());
-//        assertEquals("978-0071809252", retrievedUser.getIsbn());
-//        assertEquals(2014, retrievedUser.getPublicationYear());
+        User retrievedUser = userDao.getById(1);
+        assertEquals("testhashc0de", retrievedUser.getPassword());
+
 
     }
 

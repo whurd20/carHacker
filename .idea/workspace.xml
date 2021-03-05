@@ -12,17 +12,21 @@
     <list default="true" id="9abe4028-367c-4760-825e-ad207c751492" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/carHacker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/carHacker1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/output.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/output.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/database.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/carHacker.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/database.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/output.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/output.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/carhacker/persistence/UserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/carhacker/persistence/UserDaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/database.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +129,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cleandb.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/src/test/resources/cleandb.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="UserDaoTest.getByIdSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carHacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carhacker.persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carhacker.persistence" />
+      <option name="MAIN_CLASS_NAME" value="carhacker.persistence.UserDaoTest" />
+      <option name="METHOD_NAME" value="getByIdSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TomEE 8.5.571" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.571" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -216,9 +241,13 @@
     <list>
       <item itemvalue="Application.NetworkUtils" />
       <item itemvalue="TomEE Server.TomEE 8.5.571" />
+      <item itemvalue="Database Script.cleandb.sql" />
+      <item itemvalue="JUnit.UserDaoTest.getByIdSuccess" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserDaoTest.getByIdSuccess" />
+        <item itemvalue="Database Script.cleandb.sql" />
         <item itemvalue="Application.NetworkUtils" />
       </list>
     </recent_temporary>
@@ -253,7 +282,7 @@
       <workItem from="1613669116690" duration="310000" />
       <workItem from="1613763642519" duration="623000" />
       <workItem from="1614978975167" duration="3870000" />
-      <workItem from="1614985025870" duration="977000" />
+      <workItem from="1614985025870" duration="2289000" />
     </task>
     <servers />
   </component>
