@@ -1,0 +1,9 @@
+
+<Context docBase="carHacker_war" path="/carHacker_war" reloadable="true">
+    <Realm className="org.apache.catalina.realm.JDBCRealm"
+           driverName="com.mysql.cj.jdbc.Driver"
+           connectionURL="jdbc:mysql://localhost:3306/car_db?user=tomcat&amp;password=week7wh"
+           userTable="user" userNameCol="user_name" userCredCol="password"
+           userRoleTable="role" roleNameCol="role_name" >
+    </Realm>
+</Context>

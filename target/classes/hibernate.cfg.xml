@@ -18,6 +18,7 @@
 
         <mapping class="carhacker.entity.UserPass"/>
         <mapping class="carhacker.entity.User"/>
+        <mapping class="carhacker.entity.Role"/>
 
     </session-factory>
 </hibernate-configuration>

@@ -18,3 +18,8 @@
 [INFO ] 2021-03-12 14:30:11.277 [main] UserPassDao - getById method run.
 [INFO ] 2021-03-12 14:31:36.953 [http-nio-8080-exec-9] SearchVIN - Log 4 j is working!
 [INFO ] 2021-03-12 14:31:40.602 [http-nio-8080-exec-9] UserPassDao - getById method run.
+[INFO ] 2021-03-12 15:05:19.416 [http-nio-8080-exec-10] SearchVIN - Log 4 j is working!
+[INFO ] 2021-03-12 15:05:23.320 [http-nio-8080-exec-10] UserPassDao - getById method run.
+[ERROR] 2021-03-12 15:33:41.173 [main] Database - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''user' values (1, 'jcoyne', 'james', 'coyne', 'supersecret1', '1964-04-01')' at line 1
+[ERROR] 2021-03-12 15:34:27.793 [main] Database - java.sql.SQLSyntaxErrorException: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''user' values (1, 'jcoyne', 'james', 'coyne', 'supersecret1', '1964-04-01')' at line 1
+[INFO ] 2021-03-12 15:34:30.281 [main] UserPassDao - getById method run.
