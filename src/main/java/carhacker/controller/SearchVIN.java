@@ -1,8 +1,8 @@
 package carhacker.controller;
 
-import carhacker.entity.User;
+import carhacker.entity.UserPass;
 import carhacker.entity.Vehicle;
-import carhacker.persistence.UserDao;
+import carhacker.persistence.UserPassDao;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -42,9 +42,9 @@ public class SearchVIN extends HttpServlet {
 
         logger.info("Log 4 j is working!");
         //logger.error("Some message you want logged", e);
-        UserDao dao = new UserDao();
-        User selectedUser = dao.getById(1);
-        request.setAttribute("user", selectedUser);
+        UserPassDao dao = new UserPassDao();
+        UserPass selectedUserPass = dao.getById(1);
+        request.setAttribute("userPass", selectedUserPass);
         request.setAttribute("method", "GET");
         request.setAttribute("vehicle", "Your car");
 

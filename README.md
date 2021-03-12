@@ -9,7 +9,7 @@ Compare cars prices and engines, luxury options. Intended for use by car buyers,
 Program will populate database rows with VIN api, program can output 2 cars side by side on one screen for easy comparison.
 
 ###User Stories
-MVP user stories are listed in screenshots/projectPlan.txt
+MVP userPass stories are listed in screenshots/projectPlan.txt
 
 As a car buyer
 
@@ -36,20 +36,20 @@ As a buyer I want to know how popular a car is so I know if my car will be a com
 
 As an engineer I want a digital model of the engine so I can run tests.
 
-As a user I want previous VIN's stored in a list for ease of access.
+As a userPass I want previous VIN's stored in a list for ease of access.
 
-As a user I want my name at the top so I know I'm in my account.
+As a userPass I want my name at the top so I know I'm in my account.
 
 
-As a user I want the first car i pick to be saved, so i can compare multiple cars to one without having to pick the first one for every match.
+As a userPass I want the first car i pick to be saved, so i can compare multiple cars to one without having to pick the first one for every match.
 
-As a user I want to see what my car would look like in different colors in case I need/want a paint job.
+As a userPass I want to see what my car would look like in different colors in case I need/want a paint job.
 
-As a user I want to automatically see the next generation of my vehicle so I can compare it to the generation I own.
+As a userPass I want to automatically see the next generation of my vehicle so I can compare it to the generation I own.
 
-As a user I want to see what upgrade options are availabe at my maker's dealership so I can improve my car.
+As a userPass I want to see what upgrade options are availabe at my maker's dealership so I can improve my car.
 
-As a user I want the last comparison I made to still be up when I reopen the app to save time.
+As a userPass I want the last comparison I made to still be up when I reopen the app to save time.
 
 
 

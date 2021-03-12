@@ -1,7 +1,8 @@
 carhacker\controller\SearchVIN.class
-carhacker\persistence\UserDao.class
+carhacker\persistence\UserPassDao.class
 carhacker\entity\Vehicle.class
 carhacker\persistence\Database.class
-carhacker\persistence\UserData.class
+carhacker\entity\UserPass.class
+carhacker\entity\Role.class
 carhacker\persistence\SessionFactoryProvider.class
 carhacker\entity\User.class

@@ -5,3 +5,16 @@
 [INFO ] 2021-03-05 17:23:59.049 [main] UserDao - getById method run.
 [INFO ] 2021-03-05 17:31:07.866 [http-nio-8080-exec-10] SearchVIN - Log 4 j is working!
 [INFO ] 2021-03-05 17:31:12.319 [http-nio-8080-exec-10] UserDao - getById method run.
+[INFO ] 2021-03-12 14:20:08.048 [http-nio-8080-exec-1] SearchVIN - Log 4 j is working!
+[INFO ] 2021-03-12 14:20:13.601 [http-nio-8080-exec-1] UserDao - getById method run.
+[INFO ] 2021-03-12 14:24:01.253 [main] UserPassDao - getById method run.
+[DEBUG] 2021-03-12 14:24:02.535 [main] UserPassDao - The list of userPasses [carhacker.entity.UserPass@987a0bb]
+[INFO ] 2021-03-12 14:24:02.884 [main] UserPassDao - getById method run.
+[INFO ] 2021-03-12 14:25:31.025 [http-nio-8080-exec-10] SearchVIN - Log 4 j is working!
+[INFO ] 2021-03-12 14:25:35.353 [http-nio-8080-exec-10] UserPassDao - getById method run.
+[INFO ] 2021-03-12 14:27:53.691 [http-nio-8080-exec-10] SearchVIN - Log 4 j is working!
+[INFO ] 2021-03-12 14:27:57.903 [http-nio-8080-exec-10] UserPassDao - getById method run.
+[INFO ] 2021-03-12 14:28:55.809 [main] UserPassDao - getById method run.
+[INFO ] 2021-03-12 14:30:11.277 [main] UserPassDao - getById method run.
+[INFO ] 2021-03-12 14:31:36.953 [http-nio-8080-exec-9] SearchVIN - Log 4 j is working!
+[INFO ] 2021-03-12 14:31:40.602 [http-nio-8080-exec-9] UserPassDao - getById method run.

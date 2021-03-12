@@ -10,23 +10,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9abe4028-367c-4760-825e-ad207c751492" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ff41fad3-1609-471f-8f64-565326dbf858.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/ff41fad3-1609-471f-8f64-565326dbf858.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/carHacker1.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/carHacker1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/projectPlan.txt" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/projectPlan.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/controller/SearchVIN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/entity/UserPass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/persistence/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/carhacker/persistence/UserPassDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/carhacker/persistence/UserData.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/output.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/output.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserDaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/database.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/carHacker/output.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/carHacker/output.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/carhacker/persistence/UserDaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/carhacker/persistence/UserDaoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/carhacker/persistence/UserPassDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/controller/SearchVIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/SessionFactoryProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/carhacker/persistence/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/classes/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/byte-buddy-1.9.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/c3p0-0.9.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/hibernate-c3p0-5.4.4.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/hibernate-core-5.4.4.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/javaee-web-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jsp-api-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/jstl-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/log4j-core-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/mchange-commons-java-0.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/head.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/carHacker/output.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/controller/SearchVIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/entity/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/SessionFactoryProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/carhacker/persistence/UserData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/carhacker/persistence/UserDaoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/carhacker/test/util/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cleandb.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/database.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/timeLog.md" beforeDir="false" afterPath="$PROJECT_DIR$/timeLog.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,15 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,7 +191,7 @@
       <script-mode>FILE</script-mode>
       <method v="2" />
     </configuration>
-    <configuration name="UserDaoTest.getByIdSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserPassDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="carHacker" />
       <extension name="coverage">
         <pattern>
@@ -143,7 +200,22 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="carhacker.persistence" />
-      <option name="MAIN_CLASS_NAME" value="carhacker.persistence.UserDaoTest" />
+      <option name="MAIN_CLASS_NAME" value="carhacker.persistence.UserPassDaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserPassDaoTest.getByIdSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="carHacker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="carhacker.persistence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="carhacker.persistence" />
+      <option name="MAIN_CLASS_NAME" value="carhacker.persistence.UserPassDaoTest" />
       <option name="METHOD_NAME" value="getByIdSuccess" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -240,13 +312,15 @@
     </configuration>
     <list>
       <item itemvalue="Application.NetworkUtils" />
-      <item itemvalue="TomEE Server.TomEE 8.5.571" />
       <item itemvalue="Database Script.cleandb.sql" />
-      <item itemvalue="JUnit.UserDaoTest.getByIdSuccess" />
+      <item itemvalue="TomEE Server.TomEE 8.5.571" />
+      <item itemvalue="JUnit.UserPassDaoTest.getByIdSuccess" />
+      <item itemvalue="JUnit.UserPassDaoTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserDaoTest.getByIdSuccess" />
+        <item itemvalue="JUnit.UserPassDaoTest.getByIdSuccess" />
+        <item itemvalue="JUnit.UserPassDaoTest" />
         <item itemvalue="Database Script.cleandb.sql" />
         <item itemvalue="Application.NetworkUtils" />
       </list>
@@ -282,7 +356,9 @@
       <workItem from="1613669116690" duration="310000" />
       <workItem from="1613763642519" duration="623000" />
       <workItem from="1614978975167" duration="3870000" />
-      <workItem from="1614985025870" duration="2289000" />
+      <workItem from="1614985025870" duration="3167000" />
+      <workItem from="1615482472476" duration="1294000" />
+      <workItem from="1615568857231" duration="5212000" />
     </task>
     <servers />
   </component>
